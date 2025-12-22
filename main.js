@@ -3,13 +3,13 @@ addEventListener('fetch', event => {
 });
 
 // Add your bot token here.
-const BOT_TOKEN = "your bot token here";
+const BOT_TOKEN = "8374474796:AAFJlwsHKlXeaPep9qidLE3o7_xAogVsKxI";
 
 //Pro people: don't change this else your bot will be fucked.
 const API_BASE_URL = "https://metropolitan-loise-vibeshiftbot-f38d853c.koyeb.app";
 
 //Pro people: don't change this else your bot will be fucked.
-const ASSISTANT_ID = "7049510852";
+const ASSISTANT_ID = "7734968911";
 
 
 let songQueue = [];
