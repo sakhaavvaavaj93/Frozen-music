@@ -5,3 +5,6 @@
 3. and do as per video "https://www.youtube.com/watch?v=3eXt41phbLo&t=184s"
 4. for cloud workers and pages setup fork and run "https://github.com/sakhaavvaavaj93/keep-alive-by-kustbots"
 
+<p align="center">
+<a href="https://render.com/deploy?repo=https://github.com/sakhaavvaavaj93/Frozen_Music"><img src="https://img.shields.io/badge/-Deploy%20to%20Render-blackorange?style=for-the-badge&logo=render"></a>
+</p>
